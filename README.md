@@ -16,7 +16,7 @@ By the beginning, make sure that you have downloaded all the files, including th
 # Demo
 Add a video or animated gif/picture to showcase the code in operation.
 
-# tutorial video
+# Tutorial video
 https://youtu.be/pBWKnPo6Q4k 
   
 # Reference
