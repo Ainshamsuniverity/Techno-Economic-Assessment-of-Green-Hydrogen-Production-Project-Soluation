@@ -17,7 +17,8 @@ By the beginning, make sure that you have downloaded all the files, including th
 Add a video or animated gif/picture to showcase the code in operation.
   
 # Reference
-1-	Yakdehige Sanath Kumara De Silva, Design of an Alkaline Electrolysis Stack, University of Agder, 2017. 
+[1-	Yakdehige Sanath Kumara De Silva, Design of an Alkaline Electrolysis Stack, University of Agder, 2017. ](https://www.researchgate.net/publication/339472189_Design_of_an_Alkaline_Electrolysis_Stack)
+
 2.	Robert Phillips, Charles Dunnill, Zero Gap Cell Design for Alkaline Electrolysis, March 2019.
 3.	 Chijindu Ikechukwu Igwe, Chinonso Hubert Achebe, Arinze Chinweze, Design of an Alkaline Water Electrolyzer for Hydrogen Production, Article in American Journal of Mechanical and Industrial Engineering · January 2023. 
 5.	 Pavlos Nikolaidis, Andreas Poullikkas, A comparative overview of hydrogen production processes, Department of Electrical Engineering, Cyprus University of Technology, 18 September2016. 
