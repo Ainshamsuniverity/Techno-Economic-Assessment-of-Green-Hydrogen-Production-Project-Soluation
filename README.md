@@ -17,9 +17,10 @@ By the beginning, make sure that you have downloaded all the files, including th
 Add a video or animated gif/picture to showcase the code in operation.
 
 # Tutorial video
-https://youtu.be/pBWKnPo6Q4k 
+https://youtu.be/pBWKnPo6Q4k
   
 # Reference
+
 1-	[Yakdehige Sanath Kumara De Silva, Design of an Alkaline Electrolysis Stack, University of Agder, 2017. ](https://www.researchgate.net/publication/339472189_Design_of_an_Alkaline_Electrolysis_Stack)
 
 2.	[Robert Phillips, Charles Dunnill, Zero Gap Cell Design for Alkaline Electrolysis, March 2019.](https://www.researchgate.net/publication/339876079_Zero_Gap_Cell_Design_for_Alkaline_Electrolysis) 
